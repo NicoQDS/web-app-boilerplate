@@ -1,1 +1,1 @@
-Clean files always available for any new project
+Clean files always available for any new project.
